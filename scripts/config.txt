@@ -1,0 +1,13 @@
+receptor = D:\OneDrive\Documents\Molecular_Docking\Proteins\6LU7_prepared.pdbqt
+
+ligand = D:\OneDrive\Documents\Molecular_Docking\Ligands\curcumin.pdbqt
+
+center_x = -26.159
+center_y = 12.584
+center_z = 59.065
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+out = D:\OneDrive\Documents\Molecular_Docking\Results\curcumin_out.pdbqt
